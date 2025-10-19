@@ -1,0 +1,5 @@
+{
+  "name": "Nyay Sahayak: Legal Case Analyzer",
+  "description": "An intelligent application that uses AI to categorize and prioritize legal cases from Indian courts in real-time. It helps streamline backlog management by providing instant analysis of case documents.",
+  "requestFramePermissions": []
+}
